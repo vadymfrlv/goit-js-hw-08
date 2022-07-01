@@ -1,5 +1,4 @@
-**Read in other languages
-+taks:[Задание](README.ts.md),[Русский](README.md),[Polski](README.pl.md).**
+**Read in other languages +taks: [Задание](README.ts.md), [Русский](README.md).**
 
 # Parcel template
 
