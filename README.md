@@ -1,4 +1,4 @@
-**Read in Ukrainian +taks: [Українською](README.uk.md.md), [Задание](README.ts.md).**
+**Read taks: [Задание](README.ts.md).**
 
 # Parcel template
 
